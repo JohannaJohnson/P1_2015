@@ -3,5 +3,3 @@ int numberOfLines() {
   int numberEmptyLines = 0;
   return numberEmptyLines;
 }
-
-//hei
