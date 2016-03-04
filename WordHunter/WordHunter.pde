@@ -1,4 +1,4 @@
-String[] lines; //This variable is global
+String[] lines; // This variable is global
 String oneString; //This variable is global
 PFont font; //This variable is global and that means....
 void setup(){

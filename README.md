@@ -1,6 +1,6 @@
 # P1_2015
 A small classroom 
-This is a challenge för your group:
+This is a challenge för your group:::
 
 1. Fork this repository.
 2. Add all group members as contributers (To the left)
